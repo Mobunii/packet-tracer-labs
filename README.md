@@ -2,7 +2,7 @@
 ## packet-tracer-labs
 # Packet Tracer: Network Configuration and Development 
 
-### Context
+### Context:
 
 Myriad of entry level labs, where I apply my networking knowledge to build and structure multiple networks using Cisco Packet Tracer CLI and GUI. 
 
@@ -10,7 +10,7 @@ These labs are part of the Cisco ‘CCNA: Introduction to Networks’ course tha
 
 This repo consists of .pka files that will need to be opened using the latest version of Packet Tracer.  
 
-### Tools needed
+### Tools needed:
 - latest version of Cisco Packet Tracer
 - Downloaded .pka files
 
