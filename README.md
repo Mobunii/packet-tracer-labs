@@ -11,7 +11,7 @@ These labs are part of the Cisco ‘CCNA: Introduction to Networks’ course tha
 This repo consists of .pka files that will need to be opened using the latest version of Packet Tracer.  
 
 ### Tools needed:
-- latest version of Cisco Packet Tracer
+- Latest version of Cisco Packet Tracer
 - Downloaded .pka files
 
 ## Learning Log **Reflection of what I’ve learnt during each lab.**
