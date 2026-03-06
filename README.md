@@ -14,7 +14,7 @@ This repo consists of .pka files that will need to be opened using the latest ve
 - latest version of Cisco Packet Tracer
 - Downloaded .pka files
 
-###Learning Log
+## Learning Log
 **Reflection of what I’ve learnt during each lab.**
 
 ## M1 & 2
